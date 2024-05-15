@@ -71,6 +71,12 @@ We welcome contribution from the community! To contribute to the project.
 
 8. Financial Stability: Having a stable residence is often a requirement for obtaining credit, loans, or mortgages.
 
+## Features  of Address Book
+
+Version 1.1: The version 1.1 of the project had been developed. This version includes the front page of the project created using html and css. By selecting the table button on the  Header tab, the user will be directed to the second page where the form will appear. This form includes all the details that are needed to be filled by the user. Scrolling down, the user will found a button, which will further direct the user to the last page of the project. Upon reaching the last page, a table will come into view, consisting all the details user filled in the form.
+
+Version 1.2: 
+
 
 
 
