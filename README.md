@@ -77,7 +77,9 @@ Version 1.1: The version 1.1 of the project had been developed. This version inc
 
 Version 1.2: Version 1.2 includes the enhanced version of the project. Many new features are introduced to the project which includes more styling of the project. Also an alart button have been added to the project , which will pop up, when the user will reach the third page of the address book.     
 
-Version 1.3: In this version, a new feature had been added to the address book using css which results in blinking of the eyes of the man image used on the second page of the address book.
+Version 1.3: In this version, a new feature had been added to the address book using css which results in blinking of the eyes of the man image used on the second page of the address book. All these features gave a more entitled look the the project.
+
+
 
 
 
